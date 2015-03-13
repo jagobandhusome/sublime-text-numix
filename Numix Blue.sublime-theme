@@ -94,7 +94,7 @@
     {
         "class": "tab_close_button",
         "layer0.texture": "Numix Theme/assets/close.png",
-        "layer0.tint": [255, 255, 255],
+        "layer0.tint": [227,228,230],
         "layer0.opacity": 1
     },
     {
@@ -496,8 +496,8 @@
     {
         "class": "sidebar_heading",
         "color": [85,85,85],
-        "font.bold": true,
-        "font.size": 12,
+        "font.bold": false,
+        "font.size": 11,
         "shadow_offset": [0,0]
     },
     // Sidebar heading selected
